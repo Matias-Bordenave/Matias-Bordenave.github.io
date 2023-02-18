@@ -1,8 +1,8 @@
 [
     {
         "id": 0,
-        "name": "bateria",
-        "description": "bateria de 200mha",
+        "name": "Escritorio",
+        "description": "escritorio de madera",
         "cost": 315,
         "price": 500,
         "margin": 185,
@@ -11,21 +11,21 @@
             {
                 "product_id": 0,
                 "id": 0,
-                "code": "abcd-415",
+                "code": "asd-1015",
                 "detail": "",
                 "sold": false
             },
             {
                 "product_id": 0,
                 "id": 1,
-                "code": "abcd-417",
+                "code": "asd-1016",
                 "detail": "",
                 "sold": false
             },
             {
                 "product_id": 0,
                 "id": 2,
-                "code": "abcd-418",
+                "code": "asd-1017",
                 "detail": "",
                 "sold": false
             }
@@ -33,8 +33,8 @@
     },
     {
         "id": 1,
-        "name": "mouse",
-        "description": "mouse de 100bpi",
+        "name": "notebook",
+        "description": "notebook lenovo",
         "cost": 3015,
         "price": 4500,
         "margin": 1485,
@@ -50,21 +50,21 @@
             {
                 "product_id": 1,
                 "id": 1,
-                "code": "sdfg-701",
+                "code": "dsa-1001",
                 "destail": "blanco",
                 "sold": false
             },
             {
                 "product_id": 1,
                 "id": 2,
-                "code": "sdfg-702",
+                "code": "dsa-1002",
                 "detail": "rojo",
                 "sold": false
             },
             {
                 "product_id": 1,
                 "id": 3,
-                "code": "sdfg-703",
+                "code": "dsa-1003",
                 "detail": "blanco",
                 "sold": false
             }
@@ -72,8 +72,8 @@
     },
     {
         "id": 2,
-        "name": "   impresora",
-        "description": "impresora HP",
+        "name": "Teclado",
+        "description": "teclado logitech",
         "cost": 7305,
         "price": 8500,
         "margin": 1195,
@@ -82,28 +82,28 @@
             {
                 "product_id": 2,
                 "id": 0,
-                "code": "kjhg-415",
+                "code": "qwe-3015",
                 "destail": "blanco",
                 "sold": false
             },
             {
                 "product_id": 2,
                 "id": 1,
-                "code": "kjhg-415",
+                "code": "qwe-3015",
                 "destail": "gris",
                 "sold": false
             },
             {
                 "product_id": 2,
                 "id": 2,
-                "code": "kjhg-415",
+                "code": "qwe-3015",
                 "detail": "negro",
                 "sold": false
             },
             {
                 "product_id": 2,
                 "id": 3,
-                "code": "kjhg-415",
+                "code": "qwe-3015",
                 "detail": "negro",
                 "sold": false
             }
